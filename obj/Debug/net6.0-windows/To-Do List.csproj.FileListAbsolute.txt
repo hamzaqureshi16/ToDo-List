@@ -1,0 +1,25 @@
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\To-Do List.exe
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\To-Do List.deps.json
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\To-Do List.runtimeconfig.json
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\To-Do List.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\To-Do List.pdb
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mhamz\source\repos\To-Do List\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.csproj.AssemblyReference.cache
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To_Do_List.Form1.resources
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.csproj.GenerateResource.cache
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.AssemblyInfoInputs.cache
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.AssemblyInfo.cs
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.csproj.CopyComplete
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.dll
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\refint\To-Do List.dll
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.pdb
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To-Do List.genruntimeconfig.cache
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\ref\To-Do List.dll
+C:\Users\Mhamz\source\repos\To-Do List\obj\Debug\net6.0-windows\To_Do_List.NewTaskForm.resources

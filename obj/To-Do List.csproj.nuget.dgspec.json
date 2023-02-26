@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mhamz\\source\\repos\\To-Do List\\To-Do List.csproj": {}
+    "C:\\hamza uni\\Visual Programming\\Code\\To-Do List\\To-Do List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mhamz\\source\\repos\\To-Do List\\To-Do List.csproj": {
+    "C:\\hamza uni\\Visual Programming\\Code\\To-Do List\\To-Do List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mhamz\\source\\repos\\To-Do List\\To-Do List.csproj",
+        "projectUniqueName": "C:\\hamza uni\\Visual Programming\\Code\\To-Do List\\To-Do List.csproj",
         "projectName": "To-Do List",
-        "projectPath": "C:\\Users\\Mhamz\\source\\repos\\To-Do List\\To-Do List.csproj",
+        "projectPath": "C:\\hamza uni\\Visual Programming\\Code\\To-Do List\\To-Do List.csproj",
         "packagesPath": "C:\\Users\\Mhamz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mhamz\\source\\repos\\To-Do List\\obj\\",
+        "outputPath": "C:\\hamza uni\\Visual Programming\\Code\\To-Do List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
